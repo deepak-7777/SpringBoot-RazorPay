@@ -1,4 +1,4 @@
-# 📂 Spring Boot REST API Practice
+# Spring Boot REST API
 
 This repository contains my practice work while learning **Spring Boot**. It focuses on building RESTful APIs and understanding backend development using Spring framework components.
 
