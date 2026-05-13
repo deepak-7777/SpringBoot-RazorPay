@@ -26,7 +26,7 @@ The purpose of this project is to learn how to develop backend services using Sp
 * Java
 * Spring Boot
 * Spring MVC
-* Maven / Gradle
+* Maven / Gradle 
 
 ---
 
