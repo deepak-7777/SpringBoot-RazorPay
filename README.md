@@ -23,7 +23,7 @@ The purpose of this project is to learn how to develop backend services using Sp
  
 ## 🛠️ Tech Used
 
-* Java
+* Java 
 * Spring Boot
 * Spring MVC
 * Maven / Gradle  
